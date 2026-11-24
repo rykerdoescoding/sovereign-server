@@ -16,5 +16,4 @@ Players type the server's IP address, port and (if you set one) password in MULT
 You can override the port: RoWorldServer.exe 8000
 
 The server only relays chat and player commands (the game runs on every client), so it needs very little CPU.
-"Host a server on this PC" inside the game also works; its properties/logs live in the game's persistent data folder (RoWorldServer).
-Source: ServerProgram.cs + Assets/Scripts/Net/NetBuf.cs, RelayServer.cs, ServerConfig.cs
+"Host a server on this PC" might not work probably.
