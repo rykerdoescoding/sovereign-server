@@ -1,4 +1,4 @@
-RoWorld dedicated server
+Sovereign dedicated server
 ========================
 Windows 7+: double-click start-server.bat (needs .NET Framework 4.0 or newer, already included in Windows 10/11).
 Linux / macOS: install Mono, then run:  mono RoWorldServer.exe
